@@ -48,3 +48,14 @@ __"아, 조금 뺴줘야하는데,, "__
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/26621246/175757681-f5649581-41ae-44a0-b4c9-0f7d921a7de1.svg)
 
 
+
+
+# 개발시 Basic Rule
+
+1) 개발시에는 해당 기능 구현에 대한 테스트케이스를 작성하고 작성한다.
+2) 개발시에는 본인의 Branch에 Push한 후 PR을 상호간에 실시한다. 
+3) 개발서버는 Cloud의 라즈베리파이를 이용한다. 이부분에 대해서는 추후 진행해볼 예정
+
+## 개발 Stack
+Django backend
+Container 기반의 배포전략

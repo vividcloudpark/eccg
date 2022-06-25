@@ -41,3 +41,10 @@ __"아, 조금 뺴줘야하는데,, "__
 
 ### 스무딩기능
 - 옵션으로 원단위 절사를 한다. 남는 원단위 절사 금액에 대해 남는 금액은 (기본) 방장에게 귀속된다. 
+
+
+---
+# ERD
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/26621246/175757681-f5649581-41ae-44a0-b4c9-0f7d921a7de1.svg)
+
+
